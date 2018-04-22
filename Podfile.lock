@@ -1,0 +1,12 @@
+PODS:
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Toast-Swift (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 06d04c8a5e603dab2327418c752a56d5ba375179
+
+COCOAPODS: 1.3.1
